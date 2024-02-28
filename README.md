@@ -1,4 +1,4 @@
-![image](https://github.com/Khushboojha13/In-Depth-Analysis-Of-Company-Project/assets/106153929/ac3e28e7-fdba-44a2-a803-f4bd5156edf4)# In-Depth-Analysis-Of-Company-Project
+![image](https://github.com/Khushboojha13/In-Depth-Analysis-Of-Company-Project/assets/106153929/5ceb52a3-390e-4673-aadf-105b21cecb33)![image](https://github.com/Khushboojha13/In-Depth-Analysis-Of-Company-Project/assets/106153929/ac3e28e7-fdba-44a2-a803-f4bd5156edf4)# In-Depth-Analysis-Of-Company-Project
 In-depth-analysis-of-company-s-revenue
 In-depth analysis of company's revenue using pandas and matplotlib.
 
@@ -24,13 +24,17 @@ Challenge: Remove Commas: Challenge yourself to eliminate commas from numerical 
 Exploratory Data Analysis
 One of the project's highlights is the exploratory data analysis (EDA). We'll visualize sales and profit trends over time, which will provide valuable insights into the company's performance. This analysis will help uncover patterns, identify areas of improvement, and support data-driven decision-making.
 
-bar graph sector wise
+
 ![image](https://github.com/Khushboojha13/In-Depth-Analysis-Of-Company-Project/assets/106153929/6403a65a-f14f-4b51-8883-021e1b251001)
 
 
-pie chart sector wise
+![image](https://github.com/Khushboojha13/In-Depth-Analysis-Of-Company-Project/assets/106153929/2ce3aee0-686f-404e-a580-9d28c0465662)
 
 
-sales bar graph
+![image](https://github.com/Khushboojha13/In-Depth-Analysis-Of-Company-Project/assets/106153929/2cc76563-8ab0-4af8-ae92-26c85a0111fa)
 
-product wise profit pie chart
+![image](https://github.com/Khushboojha13/In-Depth-Analysis-Of-Company-Project/assets/106153929/71734002-585b-49b1-be34-1b47fc2cc3c8)
+
+
+
+
